@@ -36,6 +36,3 @@ The website follows common accessibility best practices such as:
 - Responsive and readable layout
 
 ---
-
-## 📂 Project Structure
-
